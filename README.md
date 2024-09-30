@@ -1,7 +1,9 @@
 ## Команда №5
 - Артамонов Сергей
 - Пантелеев Ярослав
-версия в [google doc] (https://docs.google.com/document/d/1JUS4P-4YgFuZgMtK_pU_zQhV35ToMshppA4AGKC0UY0/edit?usp=sharing)
+- Решетникова Анна
+
+версия в [google doc](https://docs.google.com/document/d/1JUS4P-4YgFuZgMtK_pU_zQhV35ToMshppA4AGKC0UY0/edit?usp=sharing)
 #### Вопросы:
 
 1. Если “на данный момент мы не хотим реализовывать никакие механизмы аутентификации и авторизации”, то как нам определять статус авторизации пользователя? (“В нашей системе только два типа пользователей \- авторизованный (который прошел регистрацию и аутентифицировался) и гость”) [source](https://andrsuh.notion.site/Task-manager-c794875184404b1fa07c57562ee33433) 
